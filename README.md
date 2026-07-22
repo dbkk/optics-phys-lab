@@ -33,7 +33,7 @@ The simulations are educational, schematic models. They are not instrument-desig
 - Fluorescence spectra and filters are schematic curves and rectangular bands based on representative DAPI, GFP, and mCherry peaks, not measured spectra.
 - Confocal and two-photon views use scalar Gaussian/PSF approximations for teaching optical sectioning, not a full vector diffraction model.
 - Electron-microscope images use the same deterministic schematic projection of a cytoplasmic-dynein motor domain for a negative-stain reference, one cryo particle, and an aligned average. The cryo views share one display window so that averaging improves visible SNR without independent contrast stretching. The weak-phase/CTF transfer and seeded counting noise are educational models, not experimental micrographs or a full 3D refinement.
-- The AFM view uses a deterministic smiley-shaped calibration relief, finite-tip morphological dilation, and a simplified first-order feedback response. It does not replace a full contact-mechanics, hydrodynamic, or FM-AFM model.
+- The AFM view uses a deterministic calibration relief, finite-tip morphological dilation, and a simplified first-order feedback response. It does not replace a full contact-mechanics, hydrodynamic, or FM-AFM model.
 - Cell-like and HeLa-like sample drawings are schematic morphology, not experimental cell data.
 - Glass names such as BK7 and SF10 are used in simplified educational dispersion models.
 
